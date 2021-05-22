@@ -1,5 +1,5 @@
 # slider-counter
 
-creates (n)(max 10) counters using slider - uses hooks and localstorage to memorize the counter value 
+creates n number (max 10) of counters using slider - uses hooks and localstorage to memorize the counter value 
 
 https://kur9i.csb.app/
